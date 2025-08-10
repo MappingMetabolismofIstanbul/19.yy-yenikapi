@@ -26,7 +26,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/hJFM165y/MEF-AAP-027-BAP-2025-06-25-07-14-45.png',
+            image: '',
             description: '',
             location: {
                 center: [28.953,41.003],
@@ -56,7 +56,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: '',
+            image: 'https://i.ibb.co/hJFM165y/MEF-AAP-027-BAP-2025-06-25-07-14-45.png',
             description: '',
             location: {
                 center: [28.953,41.003],
